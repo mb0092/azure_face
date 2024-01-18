@@ -1,0 +1,11 @@
+# This is a .gitignore file
+#files
+\#venv.bat
+resources.txt
+babka.*
+*.html
+*.bak
+#folders
+venv/
+.git/
+__pycache__/
